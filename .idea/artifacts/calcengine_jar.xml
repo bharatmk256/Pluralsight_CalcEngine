@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="calcengine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/calcengine_jar</output-path>
+    <root id="archive" name="calcengine.jar">
+      <element id="module-output" name="calcengine" />
+    </root>
+  </artifact>
+</component>
